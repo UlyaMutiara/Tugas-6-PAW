@@ -1,4 +1,4 @@
-// 1. Type Alias & Union Type
+// 1. Type Alias & Union Type (Feature: Status Tugas)
 export type StatusTugas = "Belum Selesai" | "Selesai";
 
 // 2. Interface & Primitive Types (number, string, boolean)
