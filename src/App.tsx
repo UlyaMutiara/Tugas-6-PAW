@@ -234,7 +234,7 @@ function App() {
       </section>
 
       <footer style={{ textAlign: "center", marginTop: "2.5rem", padding: "1.5rem 0", color: "#64748b", fontSize: "0.85rem", borderTop: "1px solid #e2e8f0" }}>
-        <p>&copy; 2026 <strong>Ulya Mutiara</strong> • Tugas 6 Pemrograman Aplikasi Web (Vite + React + TypeScript)</p>
+        <p>&copy; 2026 <strong>Ulya Mutiara</strong> | Tugas 6 Pemrograman Aplikasi Web (Vite + React + TypeScript)</p>
       </footer>
     </div>
   );
