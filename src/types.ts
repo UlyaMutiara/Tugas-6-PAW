@@ -16,3 +16,6 @@ export interface KoleksiData<T> {
   items: T[];           // Array of Generic T
   total: number;        // Primitive type: number
 }
+
+// 4. Filter Status Type Alias
+export type FilterStatus = "Semua" | StatusTugas;
